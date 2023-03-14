@@ -1,0 +1,118 @@
+body{
+    font-family: 'Montserrat';
+    background-color: #F7FAFF;
+}
+
+.navbar{
+    background-color: #FFF;
+}
+
+@media (min-width: 992px) {
+    .nav-link-login::before {
+        content: "Belum Punya Akun?";
+      }
+    .nav-link-register::before {
+        content: "Sudah Punya Akun?";
+      }
+  }
+
+.navbar-brand{
+    font-family: 'Lora';
+    font-weight: 600;
+}
+
+.my-register{
+    margin-top: 10rem !important;
+}
+
+.my-register .card-wrapper {
+	width: 100%;
+}
+
+.my-register .card {
+	border-color: transparent;
+	box-shadow: 0 4px 8px rgba(0,0,0,.05);
+    margin-bottom: 2em !important;
+}
+
+.my-register .card-header{
+    font-weight: 600;
+    color: #14212A;
+}
+
+.my-register .card.fat {
+	padding: 10px;
+}
+
+.my-register .card .card-title {
+    font-family: 'Lora';
+    font-weight: bold;
+    font-size: 1.5rem;
+	margin-bottom: 30px;
+}
+
+.my-register .form-control {
+	border-width: 2.3px;
+}
+
+.my-register .form-group label {
+	width: 100%;
+}
+
+.my-register .footer {
+	margin: 40px 0;
+	color: #888;
+	text-align: center;
+}
+
+
+@media screen and (max-width: 425px) {
+	.my-register .card-wrapper {
+		width: 90%;
+		margin: 0 auto;
+	}
+}
+
+@media screen and (max-width: 320px) {
+	.my-register .card.fat {
+		padding: 0;
+	}
+
+	.my-register .card.fat .card-body {
+		padding: 15px;
+	}
+}
+
+
+.btn{
+    text-transform: uppercase;
+    padding: 10px 20px !important;
+}
+.btn-core{
+    background: linear-gradient(270deg, #13AB8D -45.13%, rgba(26, 188, 156, 0.9) 154.12%);
+    color:#FFFFFF !important;
+    font-weight: 500;
+}
+
+.btn-core:hover{
+    background-color: #12997e;
+    transform: scale(1.015);
+    transition: transform 0.25s;
+}
+
+
+.text-core{
+    color: #13AB8D;
+}
+
+
+input[type=text], input[type=password], input[type=email], input[type=tel], input[type=date], select{
+    background-color: #f5f9ff;
+    border: 1px solid #e5eefa;
+    /* padding: 1.25rem; */
+}
+
+.form-group select{
+    background-color: #f5f9ff;
+    border: 1px solid #e5eefa;
+}

@@ -1,0 +1,260 @@
+body{
+    font-family: 'Montserrat';
+    background-color: #F7FAFF;
+}
+
+.navbar{
+    background-color: #14212A;
+}
+
+@media (max-width: 992px) {
+    .navbar{
+        background-color: #1A2A35;
+    }
+    .nav-link {
+        text-align: center;
+    }
+  }
+
+.navbar-brand{
+    font-family: 'Lora';
+    font-weight: 200;
+}
+
+.nav-item{
+    margin-right: 2em;
+    font-weight: 400;
+}
+
+.nav-item.active a{
+    color: #1ABC9C !important;
+    font-weight: 400;
+}
+
+section{
+    padding: 6rem 0;
+}
+
+.header1{
+    padding: 15rem 0;
+    background-image: url('../img/banner1.png');
+    color: #FFFFFF;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    display: table;
+    vertical-align: middle;
+}
+
+.header{
+    padding: 8rem 0;
+    background: rgb(20,33,42);
+    background: linear-gradient(180deg, rgba(20,33,42,1) 0%, rgba(14,18,20,1) 100%);
+    color: #FFFFFF;
+}
+
+@media (max-width: 1200px) {
+    .header {
+      text-align: center;
+    }
+    .header img{
+        margin-top: 5rem;
+    }
+  }
+  
+@media (max-width: 576px) {
+    .header {
+        padding: 8rem 0 4rem 0;
+    }
+  }
+
+.header h1{
+    font-family: 'Lora';
+    font-weight: 600;
+    font-size: 2.5rem;
+    margin-bottom: 2rem;
+}
+
+.header h1 span{
+    color: #1ABC9C;
+}
+
+@media (max-width: 1200px) {
+    .header h1{
+      font-size: calc(1.375rem + 1.5vw) !important;
+    }
+  }
+
+.header p{
+    font-weight: 200;
+    margin-bottom: 2rem;
+}
+
+.feature{
+    border: 1px solid #f1efef;
+}
+
+.feature h2{
+    font-family: 'Lora';
+    color: #14212A;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.feature h5{
+    font-family: 'Lora';
+    color: #14212A;
+    font-weight: 500;
+    font-size: 1.25rem;
+}
+
+@media (max-width: 1200px) {
+    .feature h2{
+      font-size: calc(1.375rem + 1.5vw) !important;
+    }
+    .feature h5{
+      font-size: calc(0.75rem + 1vw) !important;
+    }
+  }
+.feature p{
+    font-weight: 300;
+    line-height: 180%;
+}
+
+.step{
+    border: 1px solid #f1efef;
+}
+
+.step h2{
+    font-family: 'Lora';
+    color: #14212A;
+    font-weight: bold;
+    font-size: 1.75rem;
+}
+
+@media (max-width: 1200px) {
+    .step h2{
+      font-size: calc(1.375rem + 1.5vw) !important;
+    }
+  }
+
+.step p{
+    font-weight: 300;
+}
+
+.content{
+    margin-top: -10rem;
+}
+
+.content .card-body{
+    font-weight: 300;
+}
+
+
+footer{
+    background-color: #14212A;
+    color: #1ABC9C;
+}
+
+footer .nav-link {
+    color: #FFFFFF !important;
+}
+
+
+
+
+.figure{
+    border: 1px solid #f1efef;
+    box-sizing: border-box;
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px 5px rgba(0, 0, 0, 0.020);
+    padding: 1rem;
+}
+
+.figure-img {
+    position: relative;
+  }
+  
+.figure img{
+    margin-bottom: 1.5rem;
+    width: 100% !important;
+}
+
+.figure h5{
+    margin-bottom: 1em;
+    font-weight: 600;
+    color: #14212A;
+}
+
+.figure p{
+    font-weight: 300;
+    line-height: 180%;
+}
+
+
+
+.btn{
+    text-transform: uppercase;
+    padding: 10px 20px !important;
+}
+.btn-core{
+    background: linear-gradient(270deg, #13AB8D -45.13%, rgba(26, 188, 156, 0.9) 154.12%);
+    color:#FFFFFF !important;
+    font-weight: 500;
+}
+
+.btn-core:hover{
+    transform: scale(1.15);
+    transition: transform 0.5s;
+}
+
+.btn-core-outline{
+    border: 1px solid #1ABC9C;
+    color: #1ABC9C !important;
+    font-weight: 400;
+}
+
+
+.btn-second{
+    background: #FFFFFF;
+    font-weight: 500;
+}
+.btn-second-outline{
+    border: 1px solid #928f8f;
+    color: #FFFFFF !important;
+    font-weight: 300;
+}
+
+.btn-second-outline:hover{
+    transform: scale(1.15);
+    transition: transform 0.5s;
+}
+
+.form-group{
+    margin-bottom: 1.75em;
+}
+.form-control{
+    background-color: #E5E5E5;
+    height:3em;
+}
+
+.bg-core{
+    background-color: #14212A;
+}
+
+
+
+
+
+
+.content .figure .figure-img img{
+    height: 13rem;
+}
+
+@media (max-width: 576px) {
+    .content .figure .figure-img img{
+        height: 16rem;
+    }
+  }
