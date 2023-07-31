@@ -54,15 +54,11 @@ Verifikator -> RT -> RW -> Kades
 #### Front End (Beranda)
 <div style="text-align: center;">
     <ul style="list-style: none; padding: 0;">
-        <li>
-            <div align="center">Beranda 1
-                <img src="screenshot/beranda 1.png"</img> 
-            </div>
+        <li> Beranda 1
+            <img src="screenshot/beranda 1.png"</img> 
         </li>
-        <li>
-            <div align="center">Beranda 2
-                <img src="screenshot/beranda 2.png"</img> 
-            </div>
+        <li> Beranda 2
+            <img src="screenshot/beranda 2.png"</img>
         </li>
     </ul>
 </div>
