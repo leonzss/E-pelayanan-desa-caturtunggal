@@ -53,8 +53,12 @@ Verifikator -> RT -> RW -> Kades
 
 #### Front End (Beranda)
 <div align="center">
-    <img src="screenshot/beranda 1.png"</img> 
-    <img src="screenshot/beranda 2.png"</img> 
+    <ul>
+        <li>
+            <img src="screenshot/beranda 1.png"</img> 
+            <img src="screenshot/beranda 2.png"</img> 
+        </li>
+    </ul>
 </div>
 
 #### Front End (Berita/Artikel)
