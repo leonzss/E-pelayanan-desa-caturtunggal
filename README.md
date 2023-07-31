@@ -80,11 +80,6 @@ Verifikator -> RT -> RW -> Kades
     </ul>
 </div>
 
-#### Front End (Berita/Artikel)
-<div align="center">
-    <img src="screenshoot/Company-Profile2.png"</img> 
-</div>
-
 #### Back End (Login & Register)
 <div style="text-align: center;">
     <ul style="list-style: none; padding: 0;">
