@@ -73,6 +73,10 @@ Verifikator -> RT -> RW -> Kades
         <li> Profil 3
             <img src="screenshot/profil 3.png"</img>
         </li>
+        <br>
+        <li> Informasi
+            <img src="screenshot/informasi.png"</img>
+        </li>
     </ul>
 </div>
 
