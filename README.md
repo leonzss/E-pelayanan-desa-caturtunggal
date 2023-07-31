@@ -51,9 +51,10 @@ Verifikator -> RT -> RW -> Kades
 
 ## Screenshoot
 
-#### Front End (Home)
+#### Front End (Beranda)
 <div align="center">
-    <img src="screenshoot/Company-Profile1.png"</img> 
+    <img src="screenshoot/beranda 1.png"</img> 
+    <img src="screenshoot/beranda 2.png"</img> 
 </div>
 
 #### Front End (Berita/Artikel)
