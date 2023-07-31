@@ -61,6 +61,18 @@ Verifikator -> RT -> RW -> Kades
         <li> Beranda 2
             <img src="screenshot/beranda 2.png"</img>
         </li>
+        <br>
+        <li> Profil 1
+            <img src="screenshot/profil 1.png"</img>
+        </li>
+        <br>
+        <li> Profil 2
+            <img src="screenshot/profil 2.png"</img>
+        </li>
+        <br>
+        <li> Profil 3
+            <img src="screenshot/profil 3.png"</img>
+        </li>
     </ul>
 </div>
 
