@@ -55,8 +55,14 @@ Verifikator -> RT -> RW -> Kades
 <div style="text-align: center;">
     <ul style="list-style: none; padding: 0;">
         <li>
-            <img src="screenshot/beranda1.png" alt="Beranda 1">
-            <img src="screenshot/beranda2.png" alt="Beranda 2">
+            <div align="center">Beranda 1
+                <img src="screenshot/beranda 1.png"</img> 
+            </div>
+        </li>
+        <li>
+            <div align="center">Beranda 2
+                <img src="screenshot/beranda 2.png"</img> 
+            </div>
         </li>
     </ul>
 </div>
