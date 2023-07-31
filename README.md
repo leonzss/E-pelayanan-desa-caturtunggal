@@ -48,3 +48,25 @@ Password : 12345
 #### Orang yang verifikasi
 
 Verifikator -> RT -> RW -> Kades
+
+## Screenshoot
+
+#### Front End (Home)
+<div align="center">
+    <img src="screenshoot/Company-Profile1.png"</img> 
+</div>
+
+#### Front End (Berita/Artikel)
+<div align="center">
+    <img src="screenshoot/Company-Profile2.png"</img> 
+</div>
+
+#### Back End (Login)
+<div align="center">
+    <img src="screenshoot/Company-Profile-›-Login.png"</img> 
+</div>
+
+#### Back End (Dashboard)
+<div align="center">
+    <img src="screenshoot/Company-Profile-›-Dashboard.png"</img> 
+</div>
